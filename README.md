@@ -38,7 +38,6 @@ A modern PDF reader powered by **AI** with deep integration of **LLMs**, **OCR**
 
 [![Watch the demo]](https://www.linkedin.com/posts/biruk-kiros-meles-68aaa7214_after-months-of-waiting-for-a-truly-modern-activity-7327099019715854337-vm4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZEVQoBuTRKiHS0p7qF0BVbKHSOYwFnlJU)
 
-> 📺 *Click the image above to watch the product in action on LinkedIn.*
 
 ---
 
