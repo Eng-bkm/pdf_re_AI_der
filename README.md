@@ -1,4 +1,6 @@
 # pdf_re_AI_der( Under development since april 21st, open for collaboration)
+
+**javascript, Firebase, LLM API's, RAG, OCR, PDF_js, React, REST_API,HTML_CSS
 This is a modern pdf reader with AI integration. Unlike most applications, it wont be used not just for summary generation, but contextualized querying too. It is integrated with OCR plus LLMS for hand writing recognition. This is a web based application which is open to scalability to other front ends.
 Here you can:
 1, ask about a specific line in your pdf withut leaving your page
