@@ -1,6 +1,6 @@
 # 📘 pdf\_re\_AI\_der
 
-**Under development since April 21st – Open for Collaboration**
+**Under development since May1st – Open for Collaboration**
 
 A modern PDF reader powered by **AI** with deep integration of **LLMs**, **OCR**, and **contextual querying**. This isn’t just another summarizer—**it's an intelligent assistant** for navigating, understanding, and interacting with complex documents.
 
@@ -34,7 +34,7 @@ A modern PDF reader powered by **AI** with deep integration of **LLMs**, **OCR**
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Video(first working version with char limit roundabout)
 
 [![Watch the demo]](https://www.linkedin.com/posts/biruk-kiros-meles-68aaa7214_after-months-of-waiting-for-a-truly-modern-activity-7327099019715854337-vm4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZEVQoBuTRKiHS0p7qF0BVbKHSOYwFnlJU)
 
